@@ -71,7 +71,7 @@
     "npm": ">=9"
   },
   "volta": {
-    "node": "18.16.0"
+    "node": "18.16.1"
   },
   "release": {
     "branches": [
